@@ -60,12 +60,12 @@ I'm a passionate **AI & Data Science** final-year student who loves **coding, pr
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshu03&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshu03&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharattaneja01&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharattaneja01&theme=radical" width="50%" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshu03&show_icons=true&locale=en&layout=compact" alt="vanshu03" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharattaneja01&show_icons=true&locale=en&layout=compact" alt="Bharattaneja01" />
 </p>
 
 ---
