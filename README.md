@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center"> Hi there, I'm Vanshika 👋</h1>  
+<h1 align="center"> Hi there, I'm Bharat Taneja 👋</h1>  
 <h3 align="center">A Competetive Programmer from India</h3>
 
 ## About Me  
